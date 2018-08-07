@@ -1,0 +1,7 @@
+{
+  "name": "catus",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
